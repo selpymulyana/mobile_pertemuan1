@@ -1,0 +1,29 @@
+[
+{
+    "nama":"bulbasaur",
+     "tipe":[
+            "daun",
+            "racun"
+        ],
+        "kelemahan":[
+            "api",
+            "es",
+            "terbang",
+            "psychic"
+        ],
+        "tinggi":"0.7 m",
+        "berat": "6.9 kg",
+        "kemampuan": "hijau rindang",
+        "kategori":"pokemon bibit",
+        "jenis kelamin":[
+            "perempuan",
+            "laki laki"
+        ]
+},
+
+{
+    "nama":"sylveon",
+    "tipe":""
+}
+]
+   
