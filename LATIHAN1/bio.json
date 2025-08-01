@@ -1,0 +1,21 @@
+{
+    "nama" : "selpya mulyana",
+    "tempat_lahir":"bandung",
+    "tanggal_lahir": "2008-10-22",
+    "alamat":{
+        "jalan":"kp. muara ciwidey RT 07 RW 01",
+        "desa": "cilampeni",
+        "kecamatan":"katapang"
+    },
+    "hobi": [
+        "memasak",
+        "membaca",
+        "menonton film"
+    ],
+    "kontak":{
+        "email":"selpyasiswamarhas@gmail.com",
+        "whatsapp":"08988248260",
+        "instagram": "selpyaaa_",
+        "github":"Selpymulyana"
+    }   
+}
